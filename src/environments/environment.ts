@@ -1,12 +1,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCaqMRgRSaaA_j5071qCT2p8Jsv9Qg31tM",
-    authDomain: "cloud-functions-soa.firebaseapp.com",
-    databaseURL: "https://cloud-functions-soa.firebaseio.com",
-    projectId: "cloud-functions-soa",
-    storageBucket: "cloud-functions-soa.appspot.com",
-    messagingSenderId: "765755827373",
-    appId: "1:765755827373:web:f46eed8ba701a3af"
+    apiKey: "AIzaSyBjtVdo3QV4bMaoBgItA36MZxc61MJ_DvA",
+    authDomain: "face-detection-project-40d1e.firebaseapp.com",
+    databaseURL: "https://face-detection-project-40d1e.firebaseio.com",
+    projectId: "face-detection-project-40d1e",
+    storageBucket: "face-detection-project-40d1e.appspot.com",
+    messagingSenderId: "711060310203",
+    appId: "1:711060310203:web:91be98693d805938"
   }
 };
